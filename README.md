@@ -25,7 +25,7 @@ This repository contains the assignments of Introduction of Data Science course 
 * [Python code 1](https://github.com/St3451/Introduction_to_Data_Science/blob/master/Assigment4/code/stefano.pellegrini.py)
 * [Python code 2](https://github.com/St3451/Introduction_to_Data_Science/blob/master/Assigment4/code/intro_data_science.py)
 
-### 5 and 6. Bayesian statistics, gradient descent, linear and logistic regression, random forest, classification and clustering after MDS
+### 5 & 6. Bayesian statistics, gradient descent, linear and logistic regression, random forest, classification and clustering after MDS
 * [Assignment questions](https://github.com/St3451/Introduction_to_Data_Science/blob/master/Assigment5_6/assignment5_6.pdf)
 * [Hand-in](https://github.com/St3451/Introduction_to_Data_Science/blob/master/Assigment5_6/stefano.pellegrini.pdf)
 * [Python code 1](https://github.com/St3451/Introduction_to_Data_Science/blob/master/Assigment5_6/code/stefano.pellegrini.py)

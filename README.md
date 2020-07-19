@@ -1,6 +1,6 @@
 # Introduction to Data Science
 
-This repository contains the assignments of Introduction of Data Science course (third block of courses of my MSc in Bioinformatics). 
+This repository contains the assignments of [Introduction of Data Science](https://kurser.ku.dk/course/ndak16003u) course (third block of courses of my MSc in Bioinformatics). 
 
 ## Assigments
 
